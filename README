@@ -1,0 +1,17 @@
+"Library Management system"
+
+MIS : 141603006
+Name : Varsha Sahebrao Mahajan
+
+	Library Management project is implemented in 'C' language on linux operating system. It have two sections, One is Member Section and another is Admin or Librarian. In Member  Section two types of options are available one is teacher and second is student .In each we can add or view members .Eachtime it looks for already registered members before adding new member for reducing redundancy.For implementing this I have used following  functions
+	void addteacher();
+	void viewteacher();
+	void addstudent();
+	void viewstudent();
+	second section is Admin section in which we haveoption to add books which needs details of books ,delete existing books,view books and 
+issuebooks .For implementing this I have used following  functions		
+		void addbooks();
+	void deletebooks();	
+	void issuebooks();
+	void viewbooks();
+
